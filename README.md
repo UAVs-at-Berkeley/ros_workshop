@@ -28,6 +28,10 @@ Materials from the UAVs@Berkeley Introduction to ROS Workshop.
 
 (Write the listener.py file)
 
+#### Make nodes executable
+
+`chmod +x talker.py listener.py`
+
 #### Build the workspace again
 
 `cd ~/catkin_ws`
